@@ -11,12 +11,12 @@
 - **1.1b** Use appropriate language.
   - Avoid using slurs, hate speech, or offensive jokes.
   - Keep discussions civil, even when disagreeing.
-- **1.1c** No impersonation.
-  - Do not impersonate other members or moderators.
-  - This includes using similar usernames or profile pictures.
-- **1.1d** Respect privacy.
+- **1.1c** Respect privacy.
   - Do not share personal information about others without their consent.
   - This includes private messages and shared content.
+- **1.1d** Minor Safety.
+  - People who are under the age of which discord allows users on the platform, (13), will be banned for the safety of said minor.
+  - NSFW Is strictly forbidden and perpatrators will be punished for defying this rule, regardless if you are admmin or not.
 
 ### 1.2 Content Sharing
 - **1.2a** No spamming or flooding.
@@ -37,25 +37,8 @@
 - **1.2f** No misleading information.
   - Ensure that the information you share is accurate and truthful.
   - Misinformation can cause confusion and harm.
-
-### 1.3 Voice Channel Etiquette
-- **1.3a** Use push-to-talk if necessary.
-  - This helps minimize background noise and distractions.
-  - If you have a noisy environment, consider using this feature.
-- **1.3b** Avoid background noise.
-  - Mute your microphone when not speaking.
-  - Use headphones to prevent echoing.
-- **1.3c** Respect others' speaking time.
-  - Allow everyone a chance to speak without interruptions.
-  - Use a raise-hand feature if available.
-- **1.3d** Keep discussions on topic.
-  - Stay focused on the subject at hand.
-  - Off-topic discussions should be moved to a designated channel.
-- **1.3e** Use appropriate volume levels.
-  - Adjust your volume to ensure everyone can hear you without straining.
-  - Avoid shouting or speaking too softly.
-
-### 1.4 Moderation
+ 
+### 1.3 Moderation
 - **1.4a** Follow the moderators' instructions.
   - Moderators are here to maintain a positive environment.
   - Disregarding their instructions may result in penalties.
@@ -69,7 +52,7 @@
   - If you feel a moderation action was unjust, you can appeal.
   - Submit your appeal to the moderators with supporting evidence.
 
-### 1.5 Community Engagement
+### 1.4 Community Engagement
 - **1.5a** Participate in community events.
   - Join events to foster community spirit and engagement.
   - Events may include game nights, discussions, or contests.
@@ -80,16 +63,19 @@
   - Greet newcomers and help them feel at home.
   - Encourage them to read the rules and participate.
 
-### 1.6 Safety and Respect
+### 1.5 Safety and Respect
 - **1.6a** No swatting or doxxing.
   - Swatting is the act of falsely reporting an emergency to prompt a police response to someone’s home. This is strictly prohibited.
   - Doxxing involves sharing personal information about individuals without their consent and is not tolerated.
-- **1.6b** Zero tolerance for hate speech.
-  - This includes any form of racism, homophobia, transphobia, or discrimination against any group.
-  - Members found engaging in hate speech will face immediate consequences.
+- **1.6b** Catfishing or Extorting
+  - We most certainly do NOT support extortion or catfishing and will take action on users who participate in these actions, both are bad and morally incorrect and we will enforce action against such acts.]
 - **1.6c** Profile restrictions.
   - Members may not use NSFW links or content in their profiles.
-  - All profile content must adhere to server rules and community standards.
+  - All profile content must adhere to server rules and community standards, this includes and IS restricted to the following
+    - No NSFW Links, such as Porn, Gore, or NSFL, etc
+    - No Vile profile Avatar's / Banners
+    - Display name shouldn't contain any vile or severe language or content, nickname will be forced if your nickname is seen as offensive or against TOS.
+  - We do NOT worry about the inside of servers inside of your bio/status, if you have a server in your bio which may contain or portay vile or NSFW content, we will not take action on just that, your profile must be portraying said content for it to be considered an issue or offense.
 
 ## 2. Additional Information (Expanded)
 
