@@ -1,0 +1,6 @@
+Jishaku v2.6.0
+Discord.py 2.4.0
+Python 3.13.1
+
+
+Run `,help` for a full list of commands; for info on a command run `,help <command>`
