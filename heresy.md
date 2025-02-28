@@ -1,10 +1,10 @@
 # Heresy (The Bot)
 
-### What is Heresy?
+## What is Heresy?
 
 Heresy is an all-in-one Discord Bot created and maintained by [@playfairs](https://discord.com/users/785042666475225109), the bot was created in late 2024 as a project, originally I was just bored, but later started working on it more seriously, still, the bot has a lot of work it needs, but it's growing slowly and I hope to make the bot a decent bot that people would actually use, that is what I want, and I love listening to people's ideas, Heresy has all sorts of commands, despite lacking a bunch, it has all sorts, and I want to keep on expanding Heresy to be a bot that people might consider using!
 
-### What kind of commands does Heresy have?
+## What kind of commands does Heresy have?
 
 Heresy has a few different categories of commands, to list a few.
 
