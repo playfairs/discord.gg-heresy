@@ -108,11 +108,11 @@
 ### 2.4 Server Updates
 - Both the bot and the server get updated periodically, this includes:
   - Bot updates such as Hotfixes, New Features, and Bugfixes
-  - Server updates such as Revammping, New Perks, new Roles, and more.
+  - Server updates such as Revamping, New Perks, new Roles, and more.
   - We try to keep the bot up to date with the server as much as possible, though not all the time do we roll out updates as an announcement in the server.
   - We also try to keep the server up to date with the bot as much as possible, such as updating certain settings or features the bot may rely on via the server.
 
 ### 2.5 Developement Team
-- The Heresy Bot is currently being developped by:
+- The Heresy Bot is currently being developed by:
   - [Playfairs](https://github.com/Playfairs)
-- For more infor on the Developer, go to [playfairs.cc](https://playfairs.cc)
+- For more info on the Developer, go to [playfairs.cc](https://playfairs.cc)
